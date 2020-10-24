@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.bernardo</groupId>
-	<artifactId>ponto-inteligente</artifactId>
+	<artifactId>pontointeligente</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ponto-inteligente</name>
 	<description>Demo project for Spring Boot</description>
